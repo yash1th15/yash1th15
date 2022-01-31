@@ -8,3 +8,5 @@
 - ⚡ Fun fact: linux enthusiast? Visit http://www.yashportfolio.me/shell
 
 ![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=yash1th15)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash1th15)](https://github.com/yash1th15/github-readme-stats)
