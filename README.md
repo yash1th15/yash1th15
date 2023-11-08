@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Yashwanth 
 
 
-- 🔭 I’m currently studying engineering
-- 🌱 I’m currently learning electronics and communication
-- 🤝 I’m looking to collaborate on hardware based software project 
+- 🔭 I’m currently working as Data Analyst in StockArae
+- 🌱 I’m have done my graduation in electronics and communication engineering
+- 🤝 I’m looking for a challenging job and ready to collab
 - 💬 About me -> https://www.aboutyash.me
 - ⚡ Fun Viz: linux enthusiast? Visit https://yash1th15.github.io/shell/
 
