@@ -7,6 +7,6 @@
 - 💬 About me -> https://www.aboutyash.me
 - ⚡ Fun Viz: linux enthusiast? Visit https://yash1th15.github.io/shell/
 
-![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=yash1th15\&include_all_commits=true\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=yash1th15\&include_all_commits=true\&repo=github-readme-stats\\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash1th15)](https://github.com/yash1th15/github-readme-stats)
