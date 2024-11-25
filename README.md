@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Software Engineer in StockArea
 - 🌱 I’m have done my graduation in electronics and communication engineering
 - 🤝 I’m looking for a challenging job and ready to collab
-- 💬 About me -> https://www.aboutyash.me
+- 💬 About me -> [Web Link](https://yash1th15.github.io/portfolio/)
 - ⚡ Fun Viz: linux enthusiast? Visit https://yash1th15.github.io/shell/
 
 ![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=yash1th15\&include_all_commits=true\&repo=github-readme-stats\\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
