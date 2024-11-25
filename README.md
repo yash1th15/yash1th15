@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Yashwanth 
 
 
-- 🔭 I’m currently working as Data Analyst in StockArea
+- 🔭 I’m currently working as Software Engineer in StockArea
 - 🌱 I’m have done my graduation in electronics and communication engineering
 - 🤝 I’m looking for a challenging job and ready to collab
 - 💬 About me -> https://www.aboutyash.me
